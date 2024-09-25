@@ -1,6 +1,6 @@
 # cara_ou_coroa
 
-A new Flutter project.
+Sistema simples que puxa dados de uma tela para outra
 
 ## Getting Started
 
